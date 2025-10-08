@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/PelajarPrestasi">Pelajar Prestasi</a>!</h1>
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/nuyuyy18">Nurul Azizah</a>!</h1>
 <h3 align="center">🧠 Data Analyst • 🕵️ Data Scraper • 🐍 Python Enthusiast</h3>
 
 <p align="center">
@@ -83,16 +83,16 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/nurulazzh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@yourmedium" target="_blank">
+  <a href="https://nurulazzh.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="nurul.azizahhhhh18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/PelajarPrestasi">
+  <a href="https://github.com/nuyuyy18">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
