@@ -3,14 +3,14 @@
 <h3 align="center">🧠 Data Analyst • 🕵️ Data Scraper • 🐍 Python Enthusiast</h3>
 
 <p align="center">
-  <em>Turning raw data into clarity — one script at a time.</em>
+  <em>Turning raw data into clarity one script at a time.</em>
 </p>
 
 ---
 
 <!-- INTRO -->
 ### 🚀 About Me
-- 🧩 Obsessed with **data-driven storytelling** — transforming unstructured chaos into insight.
+- 🧩 Obsessed with **data-driven storytelling** transforming unstructured chaos into insight.
 - 🧰 Skilled in **Python**, **Pandas**, **Selenium**, **BeautifulSoup**, **FastAPI**, and **MySQL**.
 - 🤖 Automating workflows & scraping pipelines across web platforms.
 - 📈 Building tools that bridge the gap between **data collection** and **data decisions**.
