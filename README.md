@@ -107,7 +107,7 @@
 ---
 
 ### 🧭 Motto
-> *“Every dataset hides a story — I just help it speak.”*
+> *“Every dataset hides a story I just help it speak.”*
 
 ---
 
