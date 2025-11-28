@@ -48,12 +48,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PelajarPrestasi&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PelajarPrestasi&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuyuyy18&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuyuyy18&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelajarPrestasi&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyuyy18&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -69,12 +69,12 @@
 <!-- VISUALS -->
 ### 🧮 Fun with Data (Dynamic Diagram)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PelajarPrestasi&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nuyuyy18&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PelajarPrestasi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PelajarPrestasi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuyuyy18&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuyuyy18&theme=tokyonight" />
 </p>
 
 ---
