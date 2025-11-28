@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey, I'm <a href="https://github.com/nuyuyy18">Nurul Azizah</a>!</h1>
-<h3 align="center">🧠 Data Analyst • 🕵️ Data Scraper • 🐍 Python Enthusiast</h3>
+<h3 align="center">🧠 Data Analyst • 🕵️ Data Scraper • 🐍 Python Enthusiast • 💻 Web Development</h3>
 
 <p align="center">
   <em>Turning raw data into clarity one script at a time.</em>
