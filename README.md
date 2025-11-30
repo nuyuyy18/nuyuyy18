@@ -61,7 +61,7 @@
 <!-- ACTIVITY GRAPH -->
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuyuyy18&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuyuyy18\https://github.com/nuyuyy18?tab=repositories&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
